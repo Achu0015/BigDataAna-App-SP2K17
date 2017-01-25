@@ -1,0 +1,8 @@
+
+#In python programming, where A is the array of integers.
+
+A=[1,2,3,4,9,4,3,2,1]
+res=0
+for x in A:
+   res^=x
+return res
