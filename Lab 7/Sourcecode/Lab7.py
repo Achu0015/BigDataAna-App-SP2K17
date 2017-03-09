@@ -50,7 +50,10 @@ print(linear.coef_)
 print("Y intercept (theta_0): %.2f" % linear.intercept_)
 print("")
 
-#printing the scatter plot for reduced and target dats
-plt.scatter(data_reduced, dataset.target, c='r')
-plt.plot(X_test, y_pred, '--k', c='b')
-plt.show()
+#printing Histograms for the housing rates in Boston
+plt.hist(dataset.target,bins=20)
+plt.suptitle('Boston Housing Prices in $1000s', fontsize=15)
+plt.xlabel('Prices in $1000s') 
+plt.ylabel('Count')
+plt.show() 
+
