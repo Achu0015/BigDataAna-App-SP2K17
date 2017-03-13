@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="title">Swans</string>
+  <string name="subtitle">The great apes from Central Africa</string>
+  <string name="paragraph1">Swans are birds of the family Anatidae within the genus Cygnus
+  </string>
+
+  <string name="paragraph2">The swans' close relatives include the geese and ducks. Swans are grouped with the closely related geese in the subfamily Anserinae where they form the tribe Cygnini. Sometimes, they are considered a distinct subfamily, Cygninae.
+      There are six or seven species of swan in the genus Cygnus; in addition there is another species known as the coscoroba swan, although this species is no longer considered one of the true swans. Swans usually mate for life, though "divorce" does sometimes occur, particularly following nesting failure, and if a mate dies, the remaining swan will take up with another. The number of eggs in each clutch ranges from three to eight.
+
+Swans are the largest extant members of the waterfowl family Anatidae, and are among the largest flying birds. The largest species, including the mute swan, trumpeter swan, and whooper swan, can reach a length of over 1.5 m (59 in) and weigh over 15 kg (33 lb). Their wingspans can be over 3.1 m (10 ft).[6] Compared to the closely related geese, they are much larger and have proportionally larger feet and necks.[7] Adults also have a patch of unfeathered skin between the eyes and bill. The sexes are alike in plumage, but males are generally bigger and heavier than females.[8]
+
+  </string>
+
+  <string name="source">Source &lt;a href="https://en.wikipedia.org/wiki/video">Wikipedia;/a></string>
+</resources>

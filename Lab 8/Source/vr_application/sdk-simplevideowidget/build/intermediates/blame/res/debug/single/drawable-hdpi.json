@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Onica Rayineedi\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplevideowidget\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\volume_off.png",
+        "source": "C:\\Users\\Onica Rayineedi\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplevideowidget\\src\\main\\res\\drawable-hdpi\\volume_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Onica Rayineedi\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplevideowidget\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\volume_on.png",
+        "source": "C:\\Users\\Onica Rayineedi\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplevideowidget\\src\\main\\res\\drawable-hdpi\\volume_on.png"
+    }
+]
